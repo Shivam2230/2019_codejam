@@ -1,3 +1,4 @@
+import math
 import copy
 t=int(input())
 for h in range(1,t+1):
